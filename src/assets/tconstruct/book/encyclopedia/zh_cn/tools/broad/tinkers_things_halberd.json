@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_things:halberd",
   "text": [
-    { "text": "戟是一种远距武器，专为强力打击远处目标而设计。" }
+    { "text": "斧枪是一种远距武器，专为强力打击远处目标而设计。" }
   ],
   "properties": [
     "+5 攻击伤害",

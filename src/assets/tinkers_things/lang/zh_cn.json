@@ -10,8 +10,8 @@
   "item.tinkers_things.shovel": "锹",
   "item.tinkers_things.shovel.description": "锹是一种基础挖掘工具，能将怪物击飞，并且有更多的升级槽位。",
   
-  "item.tinkers_things.halberd": "戟",
-  "item.tinkers_things.halberd.description": "戟是一种远距武器，专为强力打击远处目标而设计。",
+  "item.tinkers_things.halberd": "斧枪",
+  "item.tinkers_things.halberd.description": "斧枪是一种远距武器，专为强力打击远处目标而设计。",
   "modifier.tinkers_things.range": "长距",
   "modifier.tinkers_things.range.flavor": "超长手柄！",
   "modifier.tinkers_things.range.description": "工具形制较长，能打击到远处的敌人",
